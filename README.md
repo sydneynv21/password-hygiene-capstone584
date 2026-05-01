@@ -12,6 +12,7 @@ Furthermore, the project was designed with the intent to make cybersecurity more
 # Project Methodology
 <img width="874" height="219" alt="Screenshot 2026-04-30 210458" src="https://github.com/user-attachments/assets/8fdcab28-7805-4d61-b62a-2effa6384bb4" />
 
+
 1. The user inputs a password into the interface
 2. Local analysis of password occurs using multiple metrics (length and character diversity, presence of common dictionary words, comparison against exposed password dataset)
 3. Strength score and risk classification summary generated from metrics
