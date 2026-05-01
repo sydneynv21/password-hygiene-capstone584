@@ -42,6 +42,11 @@ Furthermore, the project was designed with the intent to make cybersecurity more
 - This tool is an educational prototype and was designed to run locally
 - User passwords are not stored nor are they shared with the LLM
 
+# Demo Video Link
+You can use this link to watch a video of me demonstrating how my project works: https://youtu.be/GGk_B3F5Ueo
+
+*Note that the AI model made an error analyzing the 4th password in the video. The password I used is not one that is in the RockYou breached password dataset, correctly identified in the password analysis metrics, yet the model provides a recommendation assuming that the password was found in that dataset. This is an example of AI hallucination, an ongoing challenge I have faced with this project. It is important to remember not to rely solely on AI recommendations, especially for cybersecurity advice, with the possibility of hallucinations happening and produce incorrect output. I have been working to better the prompt script so that hallucinations are limited.*
+
 
 
 
